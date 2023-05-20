@@ -1,0 +1,13 @@
+server:
+  port: 3000
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      username: kimkitae
+      password: 2426
+      database: test
+      uri: mongodb://localhost:27017/test
+#      auto-index-creation: true
+      # uri: mongodb: //546.465.445:27017/qwerqwer
